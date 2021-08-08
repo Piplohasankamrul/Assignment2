@@ -1,0 +1,115 @@
+section{
+    margin-bottom: 100px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar-brand img {
+    height: 40px;
+}
+.slider{
+    background-image:url(../images/bg-2.png);
+    background-repeat:no-repeat;
+    background-position:left bottom;
+    background-size: 100px;
+}
+.col-md-5{
+    background-image:url(../images/bg-1.png);
+    background-repeat:no-repeat;
+    background-position:left;
+    background-size: 55px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.buy-now-button{
+    border-radius: 8px;
+    background-image: linear-gradient(to bottom,#161616 0%,#FF136F 100%);
+    color: white;
+    border: none;
+    padding:9px 25px;
+    cursor: pointer;
+}
+.color-fnt{
+    color: #ffe601;
+}
+.name-title{
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.card{
+    border: none;
+    border-radius: 15px !important;
+    box-shadow: 5px 5px 20px lightgray;
+}
+.card-text{
+    color: rgb(128, 126, 126);
+}
+.border-un{
+    /* border-bottom: 6px  solid rgb(250, 152, 6); */
+    text-decoration: underline 5px solid rgb(250, 152, 6);
+    text-underline-offset: .4em;
+}
+.cat1, .cat2, .cat3{
+    border-radius:10px;
+    color: rgb(15, 15, 15);
+    cursor: pointer;
+    padding: 10px 30px;
+    box-shadow: 5px 5px 20px lightgray;
+}
+.categories img{
+    width: 100px;
+}
+.col-md-12{
+    padding-bottom: 20px;
+}
+
+/* section{
+    margin-bottom: 100px;
+}
+.color-bg{
+    background-color:#fceae8;
+    border-radius: 10px;
+}
+.carousel-item{
+    padding: 20px 40px;
+}
+.fnt-clr{
+    color:#FF136F;
+}
+.buy-now-button{
+    border-radius: 8px;
+    background-image: linear-gradient(to bottom,#FF589B 0%,#FF136F 100%);
+    color: white;
+    border: none;
+    padding:9px 25px;
+    cursor: pointer;
+}
+.cat1, .cat2, .cat3{
+    border-radius:10px;
+    color: white;
+    cursor: pointer;
+    padding: 10px 30px;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color:#FF136F;
+}
+.cat3{
+    background-color:rgb(0, 45, 143);
+}
+.categories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    border-radius: 15px !important;
+    box-shadow: 5px 5px 20px lightgray;
+}
+#subscribe{
+    height:300px;
+}
+#subscribe h6{
+    color: gray;
+} */
